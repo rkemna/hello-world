@@ -1,2 +1,6 @@
 # hello-world
-eerste start op github
+
+Hi Folks!
+
+Dit zijn rob's eerste stappen om GitHub te leren gebruiken,
+Hiermee doorgaan.
